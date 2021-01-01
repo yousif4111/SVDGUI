@@ -1,0 +1,12 @@
+to run the app
+
+-in search bar look for 'Anaconda Prompt'
+
+
+-go to the file location using 'cd' comand( eg. 'cd Desktop/Group_14_GUI')
+
+- to run the file type
+ 
+	streamlit run BDAA_Group_14_GUI.py
+
+   now just wait ( depend on your computer power)
