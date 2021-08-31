@@ -115,10 +115,7 @@ with st_capture(output.code):
     print_similar_movies(movie_data, movie_id, indexes)
 
 
-st.header('Team members')
+st.header('Created by')
 
-st.write('FIRAS ATHA MUHTADI - s2005885')
-st.write('MING XIANG LEE - s2021030')
-st.write('NG SIONG KIEN - s2021587')
-st.write('YOUSIF ABDELMONIEM YOUSIF ABDALLA - 17221022')
-st.write('NURUL ASWANI AHMAD ALIAS - 17218967')
+st.write('Yousif Abdalla')
+
